@@ -1,4 +1,5 @@
-# Hi, I'm Abduraxim Aliyev👋 (kadzo)
+# Hi, I'm Abduraxim Aliyev👋
+### also known as **k4dzo** on Kick & HTB/THM
 
 ## 🎯 About Me
 Cybersecurity student at Cyber University of Uzbekistan.
