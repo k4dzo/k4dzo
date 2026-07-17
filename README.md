@@ -26,3 +26,5 @@ Growing my skills toward a career in penetration testing.
 - Kick: [k4dzo](https://kick.com/k4dzo)
 - HTB/THM: webhacker997
 - Telegram: [@Abdurakhm1](https://t.me/Abdurakhm1)
+## 📚 Currently Learning
+- 🐧 Kali Linux Fundamentals (AstraSec) — 40% complete
