@@ -1,4 +1,4 @@
-# Hi, I'm kadzo Aliyev👋
+# Hi, I'm Abduraxim Aliyev👋 (kadzo)
 
 ## 🎯 About Me
 Cybersecurity student at Cyber University of Uzbekistan.
